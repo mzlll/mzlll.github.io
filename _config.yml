@@ -1,6 +1,6 @@
 # Site settings
 title: YAMT
-description: "Yet Another Minimal Theme"
+description: "Yet Another Moment in Time"
 url:  "https://pandasekh.github.io/Jekyll-YAMT/" # Actual base url of the website
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
@@ -28,7 +28,7 @@ logo: /assets/img/logo.jpg
 social:
   links: #List your social links here
     - https://twitter.com/PandaSekh
-    - https://www.github.com/pandasekh
+    - https://www.github.com/mzlll
     - https://www.linkedin.com/in/alessio-franceschi/
 webmaster_verifications:
   google: 
