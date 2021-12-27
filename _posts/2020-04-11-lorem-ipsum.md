@@ -8,7 +8,7 @@ description: "Do not go gentle into that good night"
 
 **Do not go gentle into that good night**
 
-Dylan Thomas - 1914-1953
+Dylan Thomas - 1914-
 
 
 Do not go gentle into that good night,
