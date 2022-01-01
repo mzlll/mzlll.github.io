@@ -55,7 +55,7 @@ yat:
 # sitemap: false
 
 # If you want to change site language, you can set lang option
-# lang: "zh"  # default lang is en
+  lang: "zh"  # default lang is en
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
@@ -137,11 +137,11 @@ yat:
 #   - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: Soldier under moon
-#     subheading: "Your awesome subheading"
-#     banner: https://mzlll.github.io/assets/images/banners/起风了.jpg
+  defaults:
+    home:
+      heading: Soldier under moon
+      subheading: Your awesome subheading
+      banner: https://mzlll.github.io/assets/images/banners/起风了.jpg
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
