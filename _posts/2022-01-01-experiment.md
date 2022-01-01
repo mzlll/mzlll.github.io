@@ -1,10 +1,12 @@
+
 ---
 layout: post
-title: 启程
-subtitle: 个人博客创办之路
-categories: 随笔
-tags:[随笔]
+title: Test markdown
+subtitle: Each post also has a subtitle
+categories: markdown
+tags: [test]
 ---
+
 
 
 初次遇见类似的个人网站还是2021年11月初，当时正在准备考研。在搜索翻译理论过程中，偶然进入一篇博客的主页。一番探寻之后发现，这位博主本科也是英语专业。他在博客的主页中更新了许多他过去学习的内容，其中一部分即是关于语言学、翻译理论等的整理。除此之外，还有很大一部分有关信息处理。顿时，钦佩之意油然而生。
