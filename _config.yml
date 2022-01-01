@@ -139,9 +139,9 @@ yat:
 # Page default value
 # defaults:
 #   home:
-#     heading: "Soldier under moon "
+#     heading: Soldier under moon
 #     subheading: "Your awesome subheading"
-#     banner: "mzlll.github.io/assets/images/banners/起风了.jpg"
+#     banner: https://mzlll.github.io/assets/images/banners/起风了.jpg
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
