@@ -23,5 +23,5 @@ tags:[随笔]
 
 栽树最好的时机就是现在。希望主页和第一篇博文能激励笔者在新的一年继续创作。10年后会发生什么？谁知道呢？
 
-在此，感谢[这位博主](blog.xulihang.me)，他的研究领域是翻译本地化，许多博文都很有启发性。感谢这篇Jekyll Theme的设计者[jeffreytse](https://github.com/jeffreytse/jekyll-theme-yat)，开源设计让笔者能都快速搭建自己的主页。
+在此，感谢[这位博主](https://blog.xulihang.me)，他的研究领域是翻译本地化，许多博文都很有启发性。感谢这篇Jekyll Theme的设计者[jeffreytse](https://github.com/jeffreytse/jekyll-theme-yat)，开源设计让笔者能都快速搭建自己的主页。
 
