@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 启程
-subtitle: 第一篇博文的心路历程
+subtitle: 个人博客创办之路
 categories: 随笔
 tags:[随笔]
 
