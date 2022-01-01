@@ -152,7 +152,7 @@ yat:
 #   volume: 0               # Video volume (100% is 1.0)
 #   start_at: 0             # Video start time
 #   image: null             # Image banner source
-#   opacity: 0.8            # Banner opacity (100% is 1.0)
+#   opacity: 0.2            # Banner opacity (100% is 1.0)
 #   background: "rgba(0, 0, 0, 0.8)"  # Banner background (Could be a image)
 #   height: "640px"         # Banner default height
 #   min_height: null        # Banner minium height
