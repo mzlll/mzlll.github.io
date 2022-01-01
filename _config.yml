@@ -60,30 +60,6 @@ yat:
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
 # translate_langs:
-      - lang: zh-CN
-      img: https://cdn.countryflags.com/thumbs/china/flag-400.png
-      text: Chinese(Simple)
-
-
-    - lang: en
-      img: https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png
-      text: English
-#
-#   - lang: fr
-#     img: https://cdn.countryflags.com/thumbs/france/flag-400.png
-#     text: French
-#
-#   - lang: ja
-#     img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
-#     text: Japanese
-#
-#   - lang: ko
-#     img: https://cdn.countryflags.com/thumbs/south-korea/flag-400.png
-#     text: Korean
-#
-#   - lang: ru
-#     img: https://cdn.countryflags.com/thumbs/russia/flag-400.png
-#     text: Russian
 
 # You can choose a theme color
 # Default theme colors as below:
@@ -142,7 +118,7 @@ yat:
     home:
       heading: Soldier under moon
       subheading: Your awesome subheading
-      banner: https://mzlll.github.io/assets/images/banners/起风了.jpg
+      banner: https://mzlll.github.io/assets/images/banners/homepage.jpg
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
@@ -153,7 +129,7 @@ yat:
     volume: 0               # Video volume (100% is 1.0)
     start_at: 0             # Video start time
     image: null             # Image banner source
-    opacity: 0.2            # Banner opacity (100% is 1.0)
+    opacity: 0.5            # Banner opacity (100% is 1.0)
     background: "rgba(0, 0, 0, 0.8)"  # Banner background (Could be a image)
     height: "640px"         # Banner default height
     min_height: null        # Banner minium height
