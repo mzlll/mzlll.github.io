@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-categories: markdown
-tags: [test]
+title: 启航
+subtitle: 个人博客之路
+categories: 随笔
+tags: [随笔]
 ---
 
 
